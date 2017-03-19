@@ -1,0 +1,28 @@
+languageCode = "en-us"
+title = "Patrick Nollet"
+baseurl = "http://patrick.nollet.org"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = ""
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+
+[[menu.main]]
+    name = "Patrick Nollet"
+    url = "/about-me/"
+
+[params]
+    description = ""
+    archiveYear = "2015"
+    caption = "I'm Patrick Nollet, an iOS and Android developer currently working at Baatch, a French startup."
+    twitter = "PatrickNLT"
+    github = "PatrickNLT"
+    linkedin = "patricknollet"
+
+    [params.logo]
+    url = "patricknollet-nav.jpg"
+    width = 50
+    height = 50
+    alt = "Patrick Nollet"
