@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Patrick Nollet"
-baseurl = "http://patrick.nollet.org"
+baseurl = "http://patrick.nollet.org/"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
