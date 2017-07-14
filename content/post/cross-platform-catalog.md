@@ -6,6 +6,8 @@ title = "Options for cross-platform iOS/Android development in 2017"
 
 Cross-platform mobile development is a topic that has been widely discussed since the first years of Android and iOS. The promise is enticing: write once, run everywhere. Don't do the same work twice. Who wouldn't want that? Unfortunately, this is not as easy to achieve as it seems: you need to find the right language, the right tools, the right scope (do you want to share the UI code?) in order to be as productive as possible while taking advantage of the strengths of each platform.
 
+<img class="full-column" alt="Cross-platform" src="/catalog/header.png">
+
 At my new work, we recently had to write a new app from scratch. It was the perfect opportunity to evaluate the options that are available today in that area. Like for many things, the journey was more important than the destination: the final decision was specific to our company needs and constraints, but it made us ask ourselves the right questions and find balanced answers. I thought that sharing some key points with the community may help other developers form their own opinion. In this post, I will list some options that we considered while doing our research.
 
 # All-in-one solutions
