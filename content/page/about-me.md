@@ -4,15 +4,15 @@ title = "About Me"
 
 +++
 
-I am a passionate mobile developer. I graduated in Computer Science from École Polytechnique and Télécom ParisTech in 2010.
+I am a passionate software engineer. I graduated in Computer Science from École Polytechnique and Télécom ParisTech in 2010.
 
-I am interested in numerous topics, from cross-platform mobile development to image processing and computer vision (I also hold a master's degree in medical imaging from Université Pierre et Marie Curie).
+I enjoy building user-centric products, and I am interested in numerous topics, from mobile development and system design to image processing and computer vision (I also hold a master's degree in medical imaging from Université Pierre et Marie Curie).
 
 ## Experience
 
 ### Late 2016 - Lead Mobile Developer (iOS, Android) at [ClassHeroes](https://www.classheroes.com)
 
-ClassHeroes is a mobile-first fitness service available in New York. As the Lead Mobile Developer I was leading the team that developed the first MVP then the app.
+ClassHeroes is a mobile-first fitness service available in New York. I was leading the team that developed the first MVP then the app.
 
 ### 2015 - Senior Software Engineer (iOS, Android) at [The Grizzly Labs](http://thegrizzlylabs.com)
 
