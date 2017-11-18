@@ -10,9 +10,9 @@ I am interested in numerous topics, from cross-platform mobile development to im
 
 ## Experience
 
-### Late 2016 - Lead Mobile Developer (iOS, Android) at Baatch
+### Late 2016 - Lead Mobile Developer (iOS, Android) at [ClassHeroes](https://www.classheroes.com)
 
-Baatch is a new startup whose team is composed of talented people. Our product has not been made public yet. 🤐
+ClassHeroes is a mobile-first fitness service available in New York. As the Lead Mobile Developer I was leading the team that developed the first MVP then the app.
 
 ### 2015 - Senior Software Engineer (iOS, Android) at [The Grizzly Labs](http://thegrizzlylabs.com)
 
