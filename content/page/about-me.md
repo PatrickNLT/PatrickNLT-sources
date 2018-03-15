@@ -4,9 +4,9 @@ title = "About Me"
 
 +++
 
-I am a passionate software engineer. I graduated in Computer Science from École Polytechnique and Télécom ParisTech in 2010.
+I am a passionate software developer who loves building user-centric products. I am interested in numerous topics, from mobile development and systems design to image processing and computer vision.
 
-I enjoy building user-centric products, and I am interested in numerous topics, from mobile development and system design to image processing and computer vision (I also hold a master's degree in medical imaging from Université Pierre et Marie Curie).
+I graduated in Computer Science from École Polytechnique and Télécom ParisTech in 2010. I also hold a master's degree in medical imaging from Université Pierre et Marie Curie.
 
 ## Experience
 
