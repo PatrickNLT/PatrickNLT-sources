@@ -10,9 +10,17 @@ I enjoy building user-centric products, and I am interested in numerous topics, 
 
 ## Experience
 
-### Late 2016 - Lead Mobile Developer (iOS, Android) at [ClassHeroes](https://www.classheroes.com)
+### 2018 - CTO & Co-Founder at [NEOS](http://paywithneos.com)
 
-ClassHeroes is a mobile-first fitness service available in New York. I was leading the team that developed the first MVP then the app.
+Neos is reinventing the shopping experience in retail stores.
+
+We build a self-scanning app that is easy to integrate in your store. Please [reach out](mailto:contact@alephom.com) if you're interested!
+
+### Late 2016 - Lead Mobile Developer (iOS, Android) at [Fithouse](https://fit-house.com)
+
+Fithouse is a mobile-first fitness service available in New York
+
+I was leading the mobile team, building an app that allows the customer to easily book classes, browse the schedule, and manage the membership.
 
 ### 2015 - Senior Software Engineer (iOS, Android) at [The Grizzly Labs](http://thegrizzlylabs.com)
 
