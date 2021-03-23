@@ -22,7 +22,7 @@ disqusShortname = ""
     linkedin = "patricknollet"
 
     [params.logo]
-    url = "patricknollet-nav.jpg"
+    url = "images/patricknollet-nav.jpg"
     width = 50
     height = 50
     alt = "Patrick Nollet"
