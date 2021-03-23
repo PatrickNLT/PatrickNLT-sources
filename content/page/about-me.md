@@ -4,17 +4,29 @@ title = "About Me"
 
 +++
 
-I am a passionate software developer who loves building user-centric products. I am interested in numerous topics, from mobile development and systems design to image processing and computer vision.
+I am a passionate builder who loves creating user-centric products.
+
+I am interested in numerous topics, from product development to systems design and machine learning.
 
 I graduated in Computer Science from École Polytechnique and Télécom ParisTech in 2010. I also hold a master's degree in medical imaging from Université Pierre et Marie Curie.
 
 ## Experience
 
-### 2018 - CTO & Co-Founder at [NEOS](http://paywithneos.com)
+### 2021 - CTO & Co-Founder at [Traace](https://traace.co)
 
-Neos is reinventing the shopping experience in retail stores.
+Traace is a SaaS platform that allows companies of all sizes to measure their carbon footprint and set reduction targets.
 
-We build a self-scanning app that is easy to integrate in your store. Please [reach out](mailto:contact@alephom.com) if you're interested!
+Take control of your carbon footprint. Reduce your carbon emissions with a simple and engaging platform for your organization to deal with climate change.
+
+### 2019 - CTO, E-commerce & Retail at [Chantelle](https://chantelle.com)
+
+I managed the e-commerce and retail IT teams of the Chantelle Group, a world-class leader in lingerie.
+
+### 2018 - CTO & Co-Founder at [NEOS](https://neos.app)
+
+NEOS is a consumer-facing payment app for retail. Scan your products, pay straight from the app, leave the store. You don’t have to wait in line anymore.
+
+We eventually sold the company to [Lyf Pay](https://lyf.eu) (BNP Paribas + Crédit Mutuel) and integrated our technology into their payment app.
 
 ### Late 2016 - Lead Mobile Developer (iOS, Android) at [Fithouse](https://fit-house.com)
 

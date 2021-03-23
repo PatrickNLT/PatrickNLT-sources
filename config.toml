@@ -10,12 +10,11 @@ disqusShortname = ""
     page = "/:title/"
 
 [[menu.main]]
-    name = "Patrick Nollet"
+    name = "About me"
     url = "/about-me/"
 
 [params]
     description = ""
-    caption = "I'm Patrick Nollet, the CTO and Co-Founder of NEOS, a French startup reinventing the shopping experience in retail stores."
     twitter = "PatrickNLT"
     github = "PatrickNLT"
     linkedin = "patricknollet"
